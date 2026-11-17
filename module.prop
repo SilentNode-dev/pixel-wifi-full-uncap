@@ -2,5 +2,5 @@ id=pixel_wifi_full_uncap
 name=Pixel Wi-Fi 6E/7 (6GHz) & Max TX Power / No-SAR Unlock
 version=v1.1
 versionCode=110
-author=binlex-ar
+author=SilentNode-dev
 description=Unlocks full 6GHz (Wi-Fi 6E/7, 59 channels), 6GHz Hotspot / SoftAP (UNII-5), 2.4GHz CH 1-13, 5GHz UNII-1 & UNII-3, and disables SAR power throttling on Pixel 8 / 8 Pro (Tensor G3 / Broadcom BCM4398).
