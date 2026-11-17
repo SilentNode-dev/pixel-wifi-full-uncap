@@ -12,6 +12,7 @@ zip -r9 "${OUTPUT}" \
   customize.sh \
   post-fs-data.sh \
   service.sh \
-  vendor
+  vendor \
+  system
 
 echo "Successfully built: ${OUTPUT}"
