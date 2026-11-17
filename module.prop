@@ -1,0 +1,6 @@
+id=pixel_wifi_full_uncap
+name=Pixel Wi-Fi 6E/7 (6GHz) & Max TX Power / No-SAR Unlock
+version=v1.0
+versionCode=100
+author=binlex-ar
+description=Unlocks full 6GHz (Wi-Fi 6E/7, 59 channels), max FCC TX power (30dBm), and disables SAR dynamic power throttling on Pixel 8 / 8 Pro (Tensor G3 / Broadcom BCM4398).
